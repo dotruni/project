@@ -14,3 +14,6 @@
 ![image](https://user-images.githubusercontent.com/89775352/162194110-8cca7da5-6354-4ab6-9ed6-c69ec615ff43.png)
 ![image](https://user-images.githubusercontent.com/89775352/162194189-384255f2-c6f5-4898-8ed9-f2dff46f0b01.png)
 ![image](https://user-images.githubusercontent.com/89775352/162194248-ae86ebfc-d1fb-4fd7-8ebb-61496bb6cf0f.png)
+
+- 더 자세한 사항과 코드는 본 레포지토리에서 확인하실 수 있습니다.
+- DASS 데이터를 통해  우울증 등의 정서질환으로 인한 만성 질환 예측 및 맞춤형 생활 습관 추천 모델 제작 중 
